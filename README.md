@@ -2,14 +2,17 @@
 
 Powered by GitHub
 
-## Designers and Builders
+## 建造者與維護者
 
 [Elliot](https://github.com/ElliotCHEN37)
 
 [Alex](https://github.com/portalofweb)
 
+## 修改
 
-## About
+我已經在網站code內添加註解，方便修改
+
+## 關於該網站的模版
 
 	Forty by HTML5 UP
 	html5up.net | @ajlkn
