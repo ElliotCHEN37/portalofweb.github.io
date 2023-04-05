@@ -2,7 +2,7 @@
 
 Powered by GitHub
 
-## Designers
+## Designers and Builders
 
 [Elliot](https://github.com/ElliotCHEN37)
 
