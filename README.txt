@@ -1,3 +1,5 @@
+！！！現已棄用！！！
+
 由Alex和Elliot合作搭建的網站
 
 版權歸Alex以及Elliot
